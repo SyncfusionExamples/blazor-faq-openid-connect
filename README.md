@@ -1,10 +1,11 @@
 # Blazor faq openid connect
 
-This sample explains how to connect faq openid in Blazor application.
+This sample explains that how to implement the Blazor Authentication OpenID connect.
 
 ## Prerequisites
 
-Visual Studio 2022
+* Visual Studio 2022
+* Visual Studio Code
 
 ## How to run this application?
 
